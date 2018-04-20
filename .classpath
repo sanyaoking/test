@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="lib/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="lib/guava-19.0-rc1.jar"/>
+	<classpathentry kind="lib" path="lib/poi-3.17.jar" sourcepath="C:/Users/Administrator/.m2/repository/org/apache/poi/poi/3.17/poi-3.17-sources.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc14-yy-2.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
